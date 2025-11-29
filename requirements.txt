@@ -1,0 +1,5 @@
+This lists the dependencies for easy installation. Place it in the root.
+
+pillow
+numpy
+mediapipe  # Optional for face detection
