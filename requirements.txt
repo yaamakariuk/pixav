@@ -1,4 +1,4 @@
-This lists the dependencies for easy installation. Place it in the root.
+This lists the dependencies for easy installation
 
 pillow
 numpy
