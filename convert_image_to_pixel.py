@@ -300,7 +300,6 @@ def main():
     base_image = prepare_base_aspect(args.input, target_size, fill_mode=args.fill, bg_color=bg_color)
 
     # Step 2: Adjust characteristics (Contrast/Saturation/Sharpness)
-    # This prepares the image so the limited palette can capture details better.
     base_image = adjust_characteristics(
         base_image,
         contrast=args.contrast,
